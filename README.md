@@ -36,14 +36,3 @@ In this code I had tried to make a 3 layers architecture to achieve separation o
 
 # Internationalization
 To ensure the internationalization concept, we'll use String constants in the "string.xml" resource file.
-
-# Overview
-![alt text](/overview.png)
-
-
-
-Here is my email address : yassinechaoui95@gmail.com
-
-Cheers !!
-
-
